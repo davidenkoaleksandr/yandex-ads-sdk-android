@@ -8,6 +8,9 @@ Documentation could be found at the [official website] [DOCUMENTATION]
 EULA is available at [EULA website] [LICENSE] 
 
 ## Quick start in Android Studio
+ 
+ 
+аиавис 
 
 ##### 1. Running Android Studio 1.0 or higher
 
